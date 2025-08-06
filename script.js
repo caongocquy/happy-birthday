@@ -5,7 +5,7 @@ let particles = [];
 
 // Matrix rain and emoji background effect
 const matrixChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%^&*";
-const emojis = ["🎉", "🎂", "🎈", "✨", "🥳", "🎁", "🍰", "💖", "🌟", "😄"];
+const emojis = ["🎉", "🎂", "🎈", "✨", "🥳", "🎁", "🍰", "🌟", "😄"];
 let matrixColumns = [];
 let emojiParticles = [];
 
